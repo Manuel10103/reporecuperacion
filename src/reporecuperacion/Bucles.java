@@ -1,10 +1,9 @@
 package reporecuperacion;
 
-public class Condicionales {
+public class Bucles {
 
 	public static void main(String[] args) {
-		 System.out.println("Clase condicionales");
+		System.out.println("clase Bucles");
 	}
-
 
 }
