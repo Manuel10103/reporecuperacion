@@ -1,9 +1,9 @@
 package reporecuperacion;
 
-public class ClaseMaster {
+public class Cadenas {
 
 	public static void main(String[] args) {
-		System.out.println("clase master");
+		System.out.println("Clase cadena");
 	}
 
 }
